@@ -1,1 +1,1 @@
-API which I have during Flask-Restful tutorial.
+API which I have created during Flask-Restful tutorial.
